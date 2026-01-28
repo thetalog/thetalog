@@ -145,7 +145,7 @@
   <img src="https://count.getloli.com/@:thetalog?theme=green&padding=4&scale=2&align=bottom&pixelated=1&darkmode=auto"  />
 </div>
 
-<img align="right" height="40" src="https://media.tenor.com/aG93AZQJ59MAAAAi/cute-dance.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/aG93AZQJ59MAAAAi/cute-dance.gif"  />
 
 
 ###
