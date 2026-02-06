@@ -15,7 +15,7 @@
 🎯 Production systems & agile teams veteran
 
 🔧 Core Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,kotlin,nodejs,react,postgresql,mongodb,docker,linux,git,aws,firebase&perline=7" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,django,java,kotlin,nodejs,react,nuxt,vue,mongo,postgresql,mongodb,docker,linux,git,aws,firebase&perline=7" /> </div>
 🧰 Also Comfortable With
 
 🎞 FFmpeg & video processing
