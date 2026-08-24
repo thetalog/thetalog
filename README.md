@@ -1,226 +1,38 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c3aed,100:ff2bd6&height=160&section=header&text=DEEPRAJ%20DAS&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20//%20SYSTEMS%20//%20CLOUD&descAlignY=64&descSize=15" width="100%" alt="Deepraj Das" />
 
-# 👋 Hey, I'm Deepraj
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=680&lines=Systems.+Interfaces.+Infrastructure.;Build+fast.+Ship+clean.+Scale+later." alt="typing status" />
+
+  <br/>
+
+  <a href="https://github.com/thetalog"><img src="https://img.shields.io/badge/github-030712?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/deepraj-das/"><img src="https://img.shields.io/badge/linkedin-030712?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" /></a>
+  <a href="https://thetalog.github.io"><img src="https://img.shields.io/badge/portfolio-030712?style=for-the-badge&logo=vercel&logoColor=ff2bd6" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/open_to_work-030712?style=for-the-badge&logo=statuspage&logoColor=00e5ff" alt="Open to work" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:7c3aed,100:ff2bd6&height=3" width="100%" alt="" />
+
+I ship **full-stack systems** // APIs, real-time apps, and cloud infra. Exploring DevOps, networking, and distributed design.
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nuxt,vue,react,java,spring,python,mongodb,postgresql,docker,aws,linux,git&perline=8" alt="tech stack" />
+</div>
 
-### Full-Stack Engineer · Backend Systems · Cloud Infrastructure
-
-Building modern web applications, scalable APIs, and production-ready systems.
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+systems%2C+not+just+features.;Full-Stack+%7C+Backend+%7C+Cloud;Turning+ideas+into+production+software.;Always+learning.+Always+shipping." />
+<p align="center">
+  <a href="https://github.com/thetalog/pixl"><img src="https://img.shields.io/badge/PIXL-social_platform-030712?style=for-the-badge&labelColor=00e5ff&color=030712" alt="Pixl" /></a>
+  <a href="https://github.com/thetalog/horizon-bank"><img src="https://img.shields.io/badge/HORIZON-spring_boot-030712?style=for-the-badge&labelColor=7c3aed&color=030712" alt="Horizon Bank" /></a>
+  <a href="https://github.com/thetalog/LinuxGate"><img src="https://img.shields.io/badge/LINUXGATE-dual_boot-030712?style=for-the-badge&labelColor=ff2bd6&color=030712" alt="LinuxGate" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="80%" />
-
-</div>
-
-## 🧠 About Me
-
-* 🚀 Full-stack developer focused on **modern web applications and backend systems**
-* ⚙️ Experienced with **Node.js, Express, Nuxt, React, Prisma, MongoDB and PostgreSQL**
-* ☁️ Building and deploying production services with **AWS, EC2, S3, Firebase and Docker**
-* 🔐 Interested in authentication, APIs, databases, cloud infrastructure and distributed systems
-* 🧩 Enjoy turning complex requirements into clean, maintainable architectures
-* 🌱 Currently exploring **DevOps, networking, cloud architecture and scalable backend systems**
-
----
-
-## 🚀 Featured Project — Pixl
-
-**Pixl** is a full-stack social platform inspired by modern social-media applications, built with a Nuxt web client and a Node.js/Express backend.
-
-### What I built
-
-1. **Authentication system** with OTP verification, signup/login and JWT-based authorization.
-2. **Social features** including posts, reels, stories, likes, saves, comments, tags, follows and user discovery.
-3. **Real-time communication** with direct messaging, group conversations and live-streaming APIs.
-4. **Cloud infrastructure** using AWS S3 for media storage, MongoDB with Prisma, Firebase FCM notifications and an EC2-hosted REST API.
-5. **Production API infrastructure** including CORS, media proxying, HTTPS, domain configuration, Postman API testing and a 70-request API collection covering the major application flows.
-
-### Architecture
-
-```text
-┌──────────────────────────────┐
-│        Nuxt Web Client       │
-│             Vercel           │
-└──────────────┬───────────────┘
-               │ HTTPS
-               ▼
-┌──────────────────────────────┐
-│       Node.js / Express      │
-│            EC2               │
-└───────┬──────────┬───────────┘
-        │          │
-        ▼          ▼
-   ┌─────────┐  ┌────────────┐
-   │ MongoDB │  │  AWS S3    │
-   │ Prisma  │  │   Media    │
-   └─────────┘  └────────────┘
-        │
-        ▼
-   Firebase FCM
-   Notifications
-```
-
-### API
-
-**70 API requests across 10 Postman folders**, covering:
-
-* Authentication
-* Notifications
-* Posts
-* Messaging
-* Groups
-* Users & Following
-* Profiles
-* Live features
-* Storage
-* Health checks
-
----
-
-## ⚡ Tech Stack
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nuxt,vue,react,nextjs,java,spring,python,mongodb,postgresql,redis,docker,linux,nginx,aws,firebase,git,github,postman&perline=8" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thetalog&show_icons=true&hide_border=true&bg_color=030712&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d8e8&ring_color=00e5ff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetalog&layout=compact&hide_border=true&bg_color=030712&title_color=00e5ff&text_color=c9d8e8" alt="Top languages" />
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thetalog/thetalog/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/thetalog/thetalog/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
----
-
-## 🛠️ What I Work With
-
-### Frontend
-
-* Nuxt
-* Vue
-* React
-* Next.js
-* JavaScript / TypeScript
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* Express
-* REST APIs
-* Spring Boot
-* Authentication & authorization
-* JWT
-* WebSockets / real-time systems
-
-### Databases
-
-* MongoDB
-* PostgreSQL
-* Prisma
-* Redis
-* Database design & optimization
-
-### Cloud & Infrastructure
-
-* AWS EC2
-* AWS S3
-* Firebase
-* Docker
-* Nginx
-* Linux
-* HTTPS / SSL
-* DNS & domain configuration
-
-### Development
-
-* Git & GitHub
-* Postman
-* API architecture
-* Debugging
-* Production deployments
-* CI/CD concepts
-
----
-
-## 🌌 Currently Exploring
-
-```text
-Cloud Architecture
-       ↓
-DevOps & CI/CD
-       ↓
-Distributed Systems
-       ↓
-Networking
-       ↓
-Scalable Backend Architecture
-```
-
-I'm particularly interested in understanding how applications move from **local development → deployment → networking → infrastructure → production**.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thetalog&show_icons=true&theme=dracula&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetalog&layout=compact&theme=dracula&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thetalog&theme=dracula&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thetalog&theme=dracula&hide_border=true&border_radius=10" />
-
-</div>
-
----
-
-## 🌍 Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/deepraj-das/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/thetalog">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://count.getloli.com/@:thetalog?theme=green&scale=2" />
-
-<br><br>
-
-### ⚡ Build → Break → Learn → Ship
-
-*Always building. Always learning.*
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c3aed,100:ff2bd6&height=100&section=footer" width="100%" alt="" />
