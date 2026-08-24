@@ -16,23 +16,21 @@
 I ship **full-stack systems** // APIs, real-time apps, and cloud infra. Exploring DevOps, networking, and distributed design.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nuxt,vue,react,java,spring,python,mongodb,postgresql,docker,aws,linux,git&perline=8" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nuxt,vue,react,java,spring,python,mongodb,postgres,docker,aws,linux,git&perline=8" alt="tech stack" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/thetalog/pixl"><img src="https://img.shields.io/badge/PIXL-social_platform-030712?style=for-the-badge&labelColor=00e5ff&color=030712" alt="Pixl" /></a>
-  <a href="https://github.com/thetalog/horizon-bank"><img src="https://img.shields.io/badge/HORIZON-spring_boot-030712?style=for-the-badge&labelColor=7c3aed&color=030712" alt="Horizon Bank" /></a>
-  <a href="https://github.com/thetalog/LinuxGate"><img src="https://img.shields.io/badge/LINUXGATE-dual_boot-030712?style=for-the-badge&labelColor=ff2bd6&color=030712" alt="LinuxGate" /></a>
-</p>
+### [`PIXL`](https://github.com/thetalog/pixl) // production social platform
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thetalog&show_icons=true&hide_border=true&bg_color=030712&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d8e8&ring_color=00e5ff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetalog&layout=compact&hide_border=true&bg_color=030712&title_color=00e5ff&text_color=c9d8e8" alt="Top languages" />
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thetalog/thetalog/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/thetalog/thetalog/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
+Instagram-class product I designed and shipped end to end.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c3aed,100:ff2bd6&height=100&section=footer" width="100%" alt="" />
+**Repo:** [github.com/thetalog/pixl](https://github.com/thetalog/pixl)
+
+Nuxt web client talking to a Node.js / Express API. Auth is OTP + JWT. Users can post, reel, story, like, save, comment, tag, follow, and discover. Realtime layer covers DMs, group chats, typing/read receipts, and live streams with live comments.
+
+Infra: MongoDB + Prisma, media on **AWS S3**, push via **Firebase FCM**, Socket.IO for live events, API on **EC2**. Modular REST (auth, feed, media, messaging, live) with Joi validation and S3 uploads.
+
+```text
+Nuxt  ──HTTPS──►  Express / EC2  ──►  MongoDB + Prisma
+                         │
+                         ├── AWS S3 (media)
+                         └── FCM + Socket.IO (realtime)
