@@ -1,6 +1,3 @@
-Absolutely. I’d reposition your profile around **full-stack engineering, backend systems, cloud infrastructure, real-time applications, and modern web development**, rather than Android/video-specific work.
-
-Here’s a more modern/futuristic README with the Android and FFmpeg references removed, while highlighting **Pixl** and your AWS/Node/Nuxt experience.
 
 # 👋 Hey, I'm Deepraj
 
